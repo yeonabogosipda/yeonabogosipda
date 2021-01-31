@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonabogosipda)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/yeonabogosipda/ .svg)](http://hits.dwyl.com/yeonabogosipda/ )
+[![HitCount](http://hits.dwyl.com/yeonabogosipda.svg)](http://hits.dwyl.com/yeonabogosipda )
