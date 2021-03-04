@@ -1,6 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=capsule%20render&textBg=true&fontSize=90)
 -->
-### Hi there 👋
+# WELCOME TO YEON's DEVlog   
+***
 🔭 I’m currently working on ....   
 🌱 I’m currently learning ....
 <!--
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 ### 👩🏻‍💻Back-End tech stack hammer_and_wrench   
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>   
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonabogosipda&count_bg=%233D71C8&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
